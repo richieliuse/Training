@@ -16,3 +16,9 @@ profile
 *.moved-aside
 DerivedData
 .idea/
+
+C/BT2BST/.cproject
+
+C/BT2BST/.project
+
+*.prefs
